@@ -1,0 +1,20 @@
+.banner-background{
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.banner-image{
+    padding: 10% 15%;
+    background-image: url(/public/images/presentation.png);
+    background-size: cover;
+    background-position-y: 25%;
+    opacity: 50%;
+}
+
+.banner-content{
+    padding: 0% 15%;
+    color: aliceblue;
+    background-color: transparent;
+    position: relative;
+    bottom: 150px;
+    margin-bottom: -5.5%;
+}

@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "rubixe",
+      "email": "hi@rubixe.com",
+      "phone": "9442823898",
+      "id": 1
+    },
+    {
+      "name": "mahesh",
+      "email": "mahesh@xyz.com",
+      "phone": "7894561230",
+      "id": 2
+    },
+    {
+      "name": "rohit sathe",
+      "email": "rohit@xyz.com",
+      "phone": "9874561230",
+      "id": 3
+    },
+    {
+      "name": "ganesh",
+      "email": "ganesh@xyz.com",
+      "phone": "7894561230",
+      "id": 4
+    }
+  ]
+}

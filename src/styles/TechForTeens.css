@@ -1,0 +1,97 @@
+.techies{
+    background-color: lightgrey;
+    padding: 0% 15%;
+    padding-bottom: 5%;
+}
+
+.techies h1{
+    margin: 0;
+    padding-top: 30px;
+}
+.card-divisions{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-section{
+    width:200px;
+    height:300px;
+    box-shadow: 29px -17px 23px -21px rgba(0,0,0,0.59);
+    -webkit-box-shadow: 29px -17px 23px -21px rgba(0,0,0,0.59);
+    -moz-box-shadow: 29px -17px 23px -21px rgba(0,0,0,0.59);
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.card-blue{
+    border-radius: 20px 20px 0px 0px;
+    background-color: violet;
+}
+.number{
+    display: flex;
+    justify-content: center;
+    width:60px;
+    height: 40px;
+    background-color:white;
+    border-radius: 0px 0px 50px 50px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 70px;
+    font-family: Candara;
+}
+
+.card-section img,.card-section-2 img{
+    width:100px;
+    height: 100px;
+    margin: 10px 40px;
+    mix-blend-mode:multiply;
+}
+.card-image p{
+    padding: 10px;
+}
+.card-section-2{
+    width:200px;
+    height:300px;
+    /* box-shadow: 10px 7px 12px -5px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 7px 12px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 7px 12px -5px rgba(0,0,0,0.75); */
+    box-shadow: 24px 10px 41px -14px rgba(0,0,0,0.75);
+-webkit-box-shadow: 24px 10px 41px -14px rgba(0,0,0,0.75);
+-moz-box-shadow: 24px 10px 41px -14px rgba(0,0,0,0.75);
+    border-radius: 20px;
+    margin-top: 60px;
+ 
+}
+.card-yellow{
+    background-color: yellow;
+    border-radius: 0px 0px 20px 20px;
+    margin-top:10px
+}
+.number-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:60px;
+    height: 40px;
+    padding:5px 0px;
+    background-color:white;
+    border-radius: 50px 50px 0px 0px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 65px;
+    font-family: Candara;
+}
+.navy-blue{
+    background-color: navy;
+}
+.orange{
+    background-color: orange;
+}
+.green{
+    background-color: green;
+}
+.orange-yellow{
+    background-color: rgb(193, 130, 13);
+}
+.red-pink{
+    background-color: rgb(181, 7, 7);
+}

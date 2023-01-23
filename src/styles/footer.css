@@ -1,0 +1,67 @@
+.footer-links{
+    background: #e8e8e8;
+    display: flex;
+    padding: 0% 15%;
+    color: #555555;
+}
+
+.company{
+    padding: 1% 15%;
+    background: #0f0f0f;
+    color: #e8e8e8;
+}
+
+.menus li{
+    display: block;
+    padding: 5px 0px;
+}
+
+.menus h4{
+    padding-left:40px ;
+}
+
+.menus a{
+    text-decoration: none;
+    color: #555555;
+    transition: 0.2s;
+}
+
+.menus a:hover{
+    color: red;
+}
+
+.menu-list{
+    padding-right: 70px;
+}
+
+.learn-more{
+    padding: auto;
+}
+
+.learn-more li{
+    display: block;
+    padding: 5px 0px;
+}
+
+.learn-more h4{
+    padding-left:40px ;
+}
+
+.learn-more a{
+    text-decoration: none;
+    color: #555555;
+    transition: 0.2s;
+}
+
+.learn-more a:hover{
+    color: red;
+}
+
+.more-list{
+    padding-right: 70px;
+    width: 120px;
+}
+
+.social-icons{
+    display: flex;
+}
