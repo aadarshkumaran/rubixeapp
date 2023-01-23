@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/rubixeapp/static/css/main.57f62d35.css",
-    "main.js": "/rubixeapp/static/js/main.7a3b85be.js",
+    "main.js": "/rubixeapp/static/js/main.f4db9732.js",
     "static/js/787.9896feea.chunk.js": "/rubixeapp/static/js/787.9896feea.chunk.js",
     "static/media/presentation.png": "/rubixeapp/static/media/presentation.5686e7d3d458581a72f0.png",
     "index.html": "/rubixeapp/index.html",
     "main.57f62d35.css.map": "/rubixeapp/static/css/main.57f62d35.css.map",
-    "main.7a3b85be.js.map": "/rubixeapp/static/js/main.7a3b85be.js.map",
+    "main.f4db9732.js.map": "/rubixeapp/static/js/main.f4db9732.js.map",
     "787.9896feea.chunk.js.map": "/rubixeapp/static/js/787.9896feea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57f62d35.css",
-    "static/js/main.7a3b85be.js"
+    "static/js/main.f4db9732.js"
   ]
 }
