@@ -13,7 +13,7 @@ const About = () => {
                     nam doloremque maxime iste quas impedit provident nobis.</p>
             </div>
             <div className="about-right">
-                <img width="550px" src="https://raw.githubusercontent.com/aadarshkumaran/rubixeapp/main/public/images/about-rubixe.png"/>
+                <img width="550px" src="https://aadarshkumaran.github.io/rubixeapp/images/about-rubixe.png"/>
             </div>
         </div>
      );
