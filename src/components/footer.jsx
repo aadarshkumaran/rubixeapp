@@ -42,8 +42,8 @@ const Footer = () => {
                 <div className="social-media">
                     <h4>SOCIAL MEDIA</h4>
                     <div className="social-icons">
-                    <div className="facebook"><a href="#"><img src="/images/icons8-facebook.svg" alt="" /></a></div>
-                    <div className="linkedin"><a href=""><img src="/images/icons8-linkedin-circled.svg" alt="" /></a></div>
+                    <div className="facebook"><a href="#"><img src="https://aadarshkumaran.github.io/rubixeapp/images/icons8-facebook.svg" alt="" /></a></div>
+                    <div className="linkedin"><a href=""><img src="https://aadarshkumaran.github.io/rubixeapp/images/icons8-linkedin-circled.svg" alt="" /></a></div>
                     </div>
                 </div> 
             </div>
